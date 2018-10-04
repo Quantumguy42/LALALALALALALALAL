@@ -3,5 +3,5 @@ import time
 
 while True:
 	print("lal")
-	time.sleep(4)
+	time.sleep(5)
 
